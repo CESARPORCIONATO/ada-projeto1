@@ -17,6 +17,9 @@ Este curso apresenta as principais ferramentas usadas no trabalho diário com da
 - **Aula 5** — Integração e workflow colaborativo com Git
 - **Projeto final** — análise de um conjunto de dados em grupo
 
+## Teste
+Testando as funcionalidades do Git.
+
 ## Pré-requisitos
 
 - Conhecimento básico de Python (variáveis, condicionais, laços, listas, dicionários, funções, list comprehension e tratamento de exceções)
